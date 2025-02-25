@@ -1,0 +1,18 @@
+services:
+  mysqldb:
+    image: mysql:8.4
+    ports:
+      - 1234:3306
+    environment:
+            - MYSQL_DATABASE=dev_db
+            - MYSQL_ROOT_PASSWORD=dev_root
+    volumes:
+            - .db:/var/lib/mysql
+            - ./:/app
+            - ./my.cnf:/etc/mysql/conf.d/my.cnf
+
+  db_manager:
+    image: adminer
+    restart: always
+    ports:
+      - 1357:8080

@@ -1,0 +1,1001 @@
+movie_id,title,publication_year,genre_id
+1,Guardians of the Galaxy,2014,6
+2,Prometheus,2012,1
+3,Split,2016,9
+4,Sing,2016,13
+5,Suicide Squad,2016,10
+6,The Great Wall,2016,17
+7,La La Land,2016,19
+8,Mindhorn,2016,3
+9,The Lost City of Z,2016,7
+10,Passengers,2016,5
+11,Fantastic Beasts and Where to Find Them,2016,17
+12,Hidden Figures,2016,2
+13,Rogue One,2016,4
+14,Moana,2016,16
+15,Colossal,2016,17
+16,The Secret Life of Pets,2016,16
+17,Hacksaw Ridge,2016,15
+18,Jason Bourne,2016,13
+19,Lion,2016,12
+20,Arrival,2016,5
+21,Gold,2016,15
+22,Manchester by the Sea,2016,16
+23,Hounds of Love,2016,16
+24,Trolls,2016,18
+25,Independence Day: Resurgence,2016,18
+26,Paris pieds nus,2016,16
+27,Bahubali: The Beginning,2015,18
+28,Dead Awake,2016,10
+29,Bad Moms,2016,6
+30,Assassin's Creed,2016,10
+31,Why Him?,2016,13
+32,Nocturnal Animals,2016,6
+33,X-Men: Apocalypse,2016,4
+34,Deadpool,2016,11
+35,Resident Evil: The Final Chapter,2016,10
+36,Captain America: Civil War,2016,2
+37,Interstellar,2014,7
+38,Doctor Strange,2016,6
+39,The Magnificent Seven,2016,13
+40,5/25/77,2007,3
+41,Sausage Party,2016,13
+42,Moonlight,2016,19
+43,Don't Fuck in the Woods,2016,16
+44,The Founder,2016,16
+45,Lowriders,2016,6
+46,Pirates of the Caribbean: On Stranger Tides,2011,9
+47,Miss Sloane,2016,6
+48,Fallen,2016,8
+49,Star Trek Beyond,2016,2
+50,The Last Face,2016,3
+51,Star Wars: Episode VII - The Force Awakens,2015,18
+52,Underworld: Blood Wars,2016,9
+53,Mother's Day,2016,1
+54,John Wick,2014,10
+55,The Dark Knight,2008,17
+56,Silence,2016,12
+57,Don't Breathe,2016,16
+58,Me Before You,2016,17
+59,Their Finest,2016,4
+60,Sully,2016,3
+61,Batman v Superman: Dawn of Justice,2016,6
+62,The Autopsy of Jane Doe,2016,5
+63,The Girl on the Train,2016,2
+64,Fifty Shades of Grey,2015,1
+65,The Prestige,2006,13
+66,Kingsman: The Secret Service,2014,7
+67,Patriots Day,2016,10
+68,Mad Max: Fury Road,2015,10
+69,Wakefield,2016,12
+70,Deepwater Horizon,2016,9
+71,The Promise,2016,18
+72,Allied,2016,2
+73,A Monster Calls,2016,3
+74,Collateral Beauty,2016,15
+75,Zootopia,2016,12
+76,Pirates of the Caribbean: At World's End,2007,7
+77,The Avengers,2012,4
+78,Inglourious Basterds,2009,4
+79,Pirates of the Caribbean: Dead Man's Chest,2006,3
+80,Ghostbusters,2016,16
+81,Inception,2010,11
+82,Captain Fantastic,2016,6
+83,The Wolf of Wall Street,2013,15
+84,Gone Girl,2014,19
+85,Furious Seven,2015,5
+86,Jurassic World,2015,12
+87,Live by Night,2016,19
+88,Avatar,2009,4
+89,The Hateful Eight,2015,14
+90,The Accountant,2016,15
+91,Prisoners,2013,15
+92,Warcraft,2016,2
+93,The Help,2011,9
+94,War Dogs,2016,3
+95,Avengers: Age of Ultron,2015,1
+96,The Nice Guys,2016,9
+97,Kimi no na wa,2016,14
+98,The Void,2016,7
+99,Personal Shopper,2016,15
+100,The Departed,2006,3
+101,Legend,2015,4
+102,Thor,2011,12
+103,The Martian,2015,1
+104,Contratiempo,2016,3
+105,The Man from U.N.C.L.E.,2015,12
+106,Hell or High Water,2016,14
+107,The Comedian,2016,10
+108,The Legend of Tarzan,2016,1
+109,All We Had,2016,13
+110,Ex Machina,2014,16
+111,The Belko Experiment,2016,3
+112,12 Years a Slave,2013,16
+113,The Bad Batch,2016,14
+114,300,2006,17
+115,Harry Potter and the Deathly Hallows: Part 2,2011,12
+116,Office Christmas Party,2016,14
+117,The Neon Demon,2016,1
+118,Dangal,2016,13
+119,10 Cloverfield Lane,2016,5
+120,Finding Dory,2016,3
+121,Miss Peregrine's Home for Peculiar Children,2016,5
+122,Divergent,2014,8
+123,Mike and Dave Need Wedding Dates,2016,7
+124,Boyka: Undisputed IV,2016,10
+125,The Dark Knight Rises,2012,9
+126,The Jungle Book,2016,2
+127,Transformers: Age of Extinction,2014,19
+128,Nerve,2016,8
+129,Mamma Mia!,2008,4
+130,The Revenant,2015,19
+131,Fences,2016,6
+132,Into the Woods,2014,7
+133,The Shallows,2016,4
+134,Whiplash,2014,6
+135,Furious 6,2013,15
+136,The Place Beyond the Pines,2012,5
+137,No Country for Old Men,2007,9
+138,The Great Gatsby,2013,17
+139,Shutter Island,2010,12
+140,Brimstone,2016,2
+141,Star Trek,2009,1
+142,Diary of a Wimpy Kid,2010,18
+143,The Big Short,2015,17
+144,Room,2015,5
+145,Django Unchained,2012,16
+146,Ah-ga-ssi,2016,7
+147,The Edge of Seventeen,2016,1
+148,Watchmen,2009,6
+149,Superbad,2007,14
+150,Inferno,2016,7
+151,The BFG,2016,13
+152,The Hunger Games,2012,11
+153,White Girl,2016,1
+154,Sicario,2015,19
+155,Twin Peaks: The Missing Pieces,2014,10
+156,Aliens vs Predator - Requiem,2007,17
+157,Pacific Rim,2013,6
+158,"Crazy, Stupid, Love.",2011,14
+159,Scott Pilgrim vs. the World,2010,1
+160,Hot Fuzz,2007,14
+161,Mine,2016,19
+162,Free Fire,2016,6
+163,X-Men: Days of Future Past,2014,17
+164,Jack Reacher: Never Go Back,2016,1
+165,Casino Royale,2006,14
+166,Twilight,2008,4
+167,Now You See Me 2,2016,10
+168,Woman in Gold,2015,19
+169,13 Hours,2016,19
+170,Spectre,2015,17
+171,Nightcrawler,2014,8
+172,Kubo and the Two Strings,2016,2
+173,Beyond the Gates,2016,4
+174,Her,2013,3
+175,Frozen,2013,7
+176,Tomorrowland,2015,1
+177,Dawn of the Planet of the Apes,2014,13
+178,Tropic Thunder,2008,15
+179,The Conjuring 2,2016,17
+180,Ant-Man,2015,15
+181,Bridget Jones's Baby,2016,14
+182,The VVitch: A New-England Folktale,2015,7
+183,Cinderella,2015,8
+184,Realive,2016,19
+185,Forushande,2016,16
+186,Love,2015,2
+187,Billy Lynn's Long Halftime Walk,2016,4
+188,Crimson Peak,2015,4
+189,Drive,2011,11
+190,Trainwreck,2015,2
+191,The Light Between Oceans,2016,12
+192,Below Her Mouth,2016,13
+193,Spotlight,2015,16
+194,Morgan,2016,12
+195,Warrior,2011,18
+196,Captain America: The First Avenger,2011,12
+197,Hacker,2016,1
+198,Into the Wild,2007,3
+199,The Imitation Game,2014,6
+200,Central Intelligence,2016,1
+201,Edge of Tomorrow,2014,13
+202,A Cure for Wellness,2016,5
+203,Snowden,2016,18
+204,Iron Man,2008,15
+205,Allegiant,2016,1
+206,X: First Class,2011,10
+207,Raw (II),2016,12
+208,Paterson,2016,1
+209,Bridesmaids,2011,3
+210,The Girl with All the Gifts,2016,8
+211,San Andreas,2015,10
+212,Spring Breakers,2012,10
+213,Transformers,2007,2
+214,Old Boy,2013,5
+215,Thor: The Dark World,2013,17
+216,Gods of Egypt,2016,14
+217,Captain America: The Winter Soldier,2014,12
+218,Monster Trucks,2016,4
+219,A Dark Song,2016,2
+220,Kick-Ass,2010,13
+221,Hardcore Henry,2015,8
+222,Cars,2006,15
+223,It Follows,2014,15
+224,The Girl with the Dragon Tattoo,2011,14
+225,We're the Millers,2013,13
+226,American Honey,2016,4
+227,The Lobster,2015,3
+228,Predators,2010,5
+229,Maleficent,2014,17
+230,Rupture,2016,1
+231,Pan's Labyrinth,2006,15
+232,A Kind of Murder,2016,18
+233,Apocalypto,2006,4
+234,Mission: Impossible - Rogue Nation,2015,19
+235,The Huntsman: Winter's War,2016,16
+236,The Perks of Being a Wallflower,2012,18
+237,Jackie,2016,11
+238,The Disappointments Room,2016,10
+239,The Grand Budapest Hotel,2014,11
+240,The Host,2013,9
+241,Fury,2014,18
+242,Inside Out,2015,6
+243,Rock Dog,2016,5
+244,Terminator Genisys,2015,6
+245,Percy Jackson & the Olympians: The Lightning Thief,2010,4
+246,Les Misérables,2012,9
+247,Children of Men,2006,16
+248,20th Century Women,2016,9
+249,Spy,2015,17
+250,The Intouchables,2011,4
+251,Bonjour Anne,2016,14
+252,Kynodontas,2009,6
+253,Straight Outta Compton,2015,6
+254,The Amazing Spider-Man 2,2014,13
+255,The Conjuring,2013,6
+256,The Hangover,2009,18
+257,Battleship,2012,2
+258,Rise of the Planet of the Apes,2011,7
+259,Lights Out,2016,11
+260,Norman: The Moderate Rise and Tragic Fall of a New York Fixer,2016,2
+261,Birdman or (The Unexpected Virtue of Ignorance),2014,7
+262,Black Swan,2010,13
+263,Dear White People,2014,1
+264,Nymphomaniac: Vol. I,2013,15
+265,Teenage Mutant Ninja Turtles: Out of the Shadows,2016,7
+266,Knock Knock,2015,17
+267,Dirty Grandpa,2016,13
+268,Cloud Atlas,2012,10
+269,X-Men Origins: Wolverine,2009,7
+270,Satanic,2016,3
+271,Skyfall,2012,14
+272,The Hobbit: An Unexpected Journey,2012,14
+273,21 Jump Street,2012,9
+274,Sing Street,2016,13
+275,Ballerina,2016,7
+276,Oblivion,2013,2
+277,22 Jump Street,2014,6
+278,Zodiac,2007,6
+279,Everybody Wants Some!!,2016,14
+280,Iron Man Three,2013,1
+281,Now You See Me,2013,11
+282,Sherlock Holmes,2009,2
+283,Death Proof,2007,12
+284,The Danish Girl,2015,11
+285,Hercules,2014,8
+286,Sucker Punch,2011,17
+287,Keeping Up with the Joneses,2016,7
+288,Jupiter Ascending,2015,2
+289,Masterminds,2016,3
+290,Iris,2016,2
+291,Busanhaeng,2016,13
+292,Pitch Perfect,2012,3
+293,Neighbors 2: Sorority Rising,2016,8
+294,The Exception,2016,17
+295,Man of Steel,2013,17
+296,The Choice,2016,16
+297,Ice Age: Collision Course,2016,8
+298,The Devil Wears Prada,2006,19
+299,The Infiltrator,2016,8
+300,There Will Be Blood,2007,9
+301,The Equalizer,2014,8
+302,Lone Survivor,2013,11
+303,The Cabin in the Woods,2012,4
+304,The House Bunny,2008,18
+305,She's Out of My League,2010,9
+306,Inherent Vice,2014,17
+307,Alice Through the Looking Glass,2016,17
+308,Vincent N Roxxy,2016,8
+309,The Fast and the Furious: Tokyo Drift,2006,18
+310,How to Be Single,2016,18
+311,The Blind Side,2009,12
+312,La vie d'Adèle,2013,18
+313,The Babadook,2014,10
+314,The Hobbit: The Battle of the Five Armies,2014,5
+315,Harry Potter and the Order of the Phoenix,2007,16
+316,Snowpiercer,2013,4
+317,The 5th Wave,2016,16
+318,The Stakelander,2016,10
+319,The Visit,2015,11
+320,Fast Five,2011,8
+321,Step Up,2006,7
+322,Lovesong,2016,7
+323,RocknRolla,2008,19
+324,In Time,2011,3
+325,The Social Network,2010,8
+326,The Last Witch Hunter,2015,10
+327,Victor Frankenstein,2015,5
+328,A Street Cat Named Bob,2016,15
+329,Green Room,2015,6
+330,Blackhat,2015,6
+331,Storks,2016,6
+332,American Sniper,2014,15
+333,Dallas Buyers Club,2013,5
+334,Lincoln,2012,5
+335,Rush,2013,12
+336,Before I Wake,2016,6
+337,Silver Linings Playbook,2012,5
+338,Tracktown,2016,7
+339,The Fault in Our Stars,2014,1
+340,Blended,2014,5
+341,Fast & Furious,2009,4
+342,Looper,2012,17
+343,White House Down,2013,12
+344,Pete's Dragon,2016,8
+345,Spider-Man 3,2007,1
+346,The Three Musketeers,2011,16
+347,Stardust,2007,11
+348,American Hustle,2013,13
+349,Jennifer's Body,2009,1
+350,Midnight in Paris,2011,8
+351,Lady Macbeth,2016,17
+352,Joy,2015,19
+353,The Dressmaker,2015,8
+354,Café Society,2016,1
+355,Insurgent,2015,1
+356,Seventh Son,2014,18
+357,Demain tout commence,2016,1
+358,The Theory of Everything,2014,6
+359,This Is the End,2013,10
+360,About Time,2013,3
+361,Step Brothers,2008,6
+362,Clown,2014,5
+363,Star Trek Into Darkness,2013,12
+364,Zombieland,2009,11
+365,"Hail, Caesar!",2016,2
+366,Slumdog Millionaire,2008,10
+367,The Twilight Saga: Breaking Dawn - Part 2,2012,8
+368,American Wrestler: The Wizard,2016,11
+369,The Amazing Spider-Man,2012,15
+370,Ben-Hur,2016,12
+371,Sleight,2016,4
+372,The Maze Runner,2014,14
+373,Criminal,2016,9
+374,Wanted,2008,2
+375,Florence Foster Jenkins,2016,12
+376,Collide,2016,16
+377,Black Mass,2015,10
+378,Creed,2015,12
+379,Swiss Army Man,2016,4
+380,The Expendables 3,2014,9
+381,What We Do in the Shadows,2014,8
+382,Southpaw,2015,3
+383,Hush,2016,8
+384,Bridge of Spies,2015,4
+385,The Lego Movie,2014,7
+386,Everest,2015,3
+387,Pixels,2015,8
+388,Robin Hood,2010,10
+389,The Wolverine,2013,13
+390,John Carter,2012,19
+391,Keanu,2016,10
+392,The Gunman,2015,7
+393,Steve Jobs,2015,13
+394,Whisky Galore,2016,3
+395,Grown Ups 2,2013,14
+396,The Age of Adaline,2015,3
+397,The Incredible Hulk,2008,1
+398,Couples Retreat,2009,14
+399,Absolutely Anything,2015,17
+400,Magic Mike,2012,14
+401,Minions,2015,18
+402,The Black Room,2016,3
+403,Bronson,2008,10
+404,Despicable Me,2010,1
+405,The Best of Me,2014,11
+406,The Invitation,2015,2
+407,Zero Dark Thirty,2012,5
+408,Tangled,2010,19
+409,The Hunger Games: Mockingjay - Part 2,2015,6
+410,Vacation,2015,7
+411,Taken,2008,17
+412,Pitch Perfect 2,2015,2
+413,Monsters University,2013,4
+414,Elle,2016,14
+415,Mechanic: Resurrection,2016,3
+416,Tusk,2014,9
+417,The Headhunter's Calling,2016,16
+418,Atonement,2007,7
+419,Harry Potter and the Deathly Hallows: Part 1,2010,12
+420,Shame,2011,10
+421,Hanna,2011,11
+422,The Babysitters,2007,4
+423,Pride and Prejudice and Zombies,2016,9
+424,300: Rise of an Empire,2014,8
+425,London Has Fallen,2016,13
+426,The Curious Case of Benjamin Button,2008,6
+427,Sin City: A Dame to Kill For,2014,19
+428,The Bourne Ultimatum,2007,8
+429,Srpski film,2010,6
+430,The Purge: Election Year,2016,19
+431,3 Idiots,2009,12
+432,Zoolander 2,2016,5
+433,World War Z,2013,17
+434,Mission: Impossible - Ghost Protocol,2011,9
+435,Let Me Make You a Martyr,2016,2
+436,Filth,2013,19
+437,The Longest Ride,2015,9
+438,The imposible,2012,16
+439,Kick-Ass 2,2013,15
+440,Folk Hero & Funny Guy,2016,6
+441,Oz the Great and Powerful,2013,7
+442,Brooklyn,2015,4
+443,Coraline,2009,7
+444,Blue Valentine,2010,13
+445,The Thinning,2016,10
+446,Silent Hill,2006,14
+447,Dredd,2012,15
+448,Hunt for the Wilderpeople,2016,11
+449,Big Hero 6,2014,16
+450,Carrie,2013,10
+451,Iron Man 2,2010,10
+452,Demolition,2015,9
+453,Pandorum,2009,11
+454,Olympus Has Fallen,2013,3
+455,I Am Number Four,2011,3
+456,Jagten,2012,12
+457,The Proposal,2009,8
+458,Get Hard,2015,1
+459,Just Go with It,2011,15
+460,Revolutionary Road,2008,7
+461,The Town,2010,10
+462,The Boy,2016,6
+463,Denial,2016,3
+464,Predestination,2014,11
+465,Goosebumps,2015,6
+466,Sherlock Holmes: A Game of Shadows,2011,9
+467,Salt,2010,6
+468,Enemy,2013,1
+469,District 9,2009,12
+470,The Other Guys,2010,3
+471,American Gangster,2007,8
+472,Marie Antoinette,2006,3
+473,Sunshine,2009,9
+474,Harry Potter and the Half-Blood Prince,2009,13
+475,Argo,2012,11
+476,Eddie the Eagle,2016,5
+477,The Lives of Others,2006,17
+478,Pet,2016,19
+479,Paint It Black,2016,5
+480,Macbeth,2015,6
+481,Forgetting Sarah Marshall,2008,2
+482,The Giver,2014,6
+483,Triple 9,2016,1
+484,Perfetti sconosciuti,2016,2
+485,Angry Birds,2016,5
+486,Moonrise Kingdom,2012,17
+487,Hairspray,2007,16
+488,Safe Haven,2013,2
+489,Focus,2015,17
+490,Ratatouille,2007,13
+491,Stake Land,2010,8
+492,The Book of Eli,2010,7
+493,Cloverfield,2008,9
+494,Point Break,2015,17
+495,Under the Skin,2013,6
+496,I Am Legend,2007,13
+497,Men in Black 3,2012,10
+498,Super 8,2011,12
+499,Law Abiding Citizen,2009,13
+500,Up,2009,8
+501,Maze Runner: The Scorch Trials,2015,11
+502,Carol,2015,13
+503,Imperium,2016,2
+504,Youth,2015,10
+505,Mr. Nobody,2009,15
+506,City of Tiny Lights,2016,19
+507,Savages,2012,8
+508,(500) Days of Summer,2009,4
+509,Movie 43,2013,6
+510,Gravity,2013,16
+511,The Boy in the Striped Pyjamas,2008,7
+512,Shooter,2007,15
+513,The Happening,2008,9
+514,Bone Tomahawk,2015,3
+515,Magic Mike XXL,2015,12
+516,Easy A,2010,14
+517,Exodus: Gods and Kings,2014,19
+518,Chappie,2015,15
+519,The Hobbit: The Desolation of Smaug,2013,14
+520,Half of a Yellow Sun,2013,9
+521,Anthropoid,2016,3
+522,The Counselor,2013,8
+523,Viking,2016,7
+524,Whiskey Tango Foxtrot,2016,18
+525,Trust,2010,17
+526,Birth of the Dragon,2016,8
+527,Elysium,2013,16
+528,The Green Inferno,2013,12
+529,Godzilla,2014,10
+530,The Bourne Legacy,2012,4
+531,A Good Year,2006,10
+532,Friend Request,2016,10
+533,Deja Vu,2006,18
+534,Lucy,2014,9
+535,A Quiet Passion,2016,11
+536,Need for Speed,2014,10
+537,Jack Reacher,2012,18
+538,The Do-Over,2016,1
+539,True Crimes,2016,19
+540,American Pastoral,2016,12
+541,The Ghost Writer,2010,12
+542,Limitless,2011,5
+543,Spectral,2016,4
+544,P.S. I Love You,2007,4
+545,Zipper,2015,5
+546,Midnight Special,2016,12
+547,Don't Think Twice,2016,7
+548,Alice in Wonderland,2010,13
+549,Chuck,2016,19
+550,"I, Daniel Blake",2016,13
+551,The Break-Up,2006,9
+552,Loving,2016,10
+553,Fantastic Four,2015,19
+554,The Survivalist,2015,2
+555,Colonia,2015,16
+556,The Boy Next Door,2015,3
+557,The Gift,2015,5
+558,Dracula Untold,2014,1
+559,In the Heart of the Sea,2015,15
+560,Idiocracy,2006,3
+561,The Expendables,2010,5
+562,Evil Dead,2013,7
+563,Sinister,2012,2
+564,Wreck-It Ralph,2012,16
+565,Snow White and the Huntsman,2012,10
+566,Pan,2015,6
+567,Transformers: Dark of the Moon,2011,16
+568,Juno,2007,5
+569,A Hologram for the King,2016,17
+570,Money Monster,2016,7
+571,The Other Woman,2014,17
+572,Enchanted,2007,12
+573,The Intern,2015,7
+574,Little Miss Sunshine,2006,7
+575,Bleed for This,2016,12
+576,Clash of the Titans,2010,17
+577,The Finest Hours,2016,6
+578,Tron,2010,19
+579,The Hunger Games: Catching Fire,2013,9
+580,All Good Things,2010,4
+581,Kickboxer: Vengeance,2016,16
+582,The Last Airbender,2010,7
+583,Sex Tape,2014,15
+584,What to Expect When You're Expecting,2012,2
+585,Moneyball,2011,8
+586,Ghost Rider,2007,4
+587,Unbroken,2014,16
+588,Immortals,2011,15
+589,Sunshine,2007,8
+590,Brave,2012,13
+591,Män som hatar kvinnor,2009,4
+592,Adoration,2013,6
+593,The Drop,2014,8
+594,She's the Man,2006,10
+595,Daddy's Home,2015,15
+596,Let Me In,2010,11
+597,Never Back Down,2008,11
+598,Grimsby,2016,10
+599,Moon,2009,13
+600,Megamind,2010,3
+601,Gangster Squad,2013,18
+602,Blood Father,2016,1
+603,He's Just Not That Into You,2009,2
+604,Kung Fu Panda 3,2016,17
+605,The Rise of the Krays,2015,9
+606,Handsome Devil,2016,2
+607,Winter's Bone,2010,17
+608,Horrible Bosses,2011,11
+609,Mommy,2014,19
+610,Hellboy II: The Golden Army,2008,8
+611,Beautiful Creatures,2013,12
+612,Toni Erdmann,2016,12
+613,The Lovely Bones,2009,12
+614,The Assassination of Jesse James by the Coward Robert Ford,2007,8
+615,Don Jon,2013,14
+616,Bastille Day,2016,13
+617,2307: Winter's Dream,2016,11
+618,Free State of Jones,2016,2
+619,Mr. Right,2015,8
+620,The Secret Life of Walter Mitty,2013,7
+621,Dope,2015,11
+622,Underworld Awakening,2012,12
+623,Antichrist,2009,8
+624,Friday the 13th,2009,19
+625,Taken 3,2014,13
+626,Total Recall,2012,1
+627,X-Men: The Last Stand,2006,9
+628,The Escort,2016,14
+629,The Whole Truth,2016,8
+630,Night at the Museum: Secret of the Tomb,2014,17
+631,Love & Other Drugs,2010,12
+632,The Interview,2014,1
+633,The Host,2006,4
+634,Megan Is Missing,2011,4
+635,WALL·E,2008,5
+636,Knocked Up,2007,16
+637,Source Code,2011,16
+638,Lawless,2012,6
+639,Unfriended,2014,4
+640,American Reunion,2012,14
+641,The Pursuit of Happyness,2006,19
+642,Relatos salvajes,2014,5
+643,The Ridiculous 6,2015,11
+644,Frantz,2016,7
+645,Viral,2016,4
+646,Gran Torino,2008,11
+647,Burnt,2015,3
+648,Tall Men,2016,6
+649,Sleeping Beauty,2011,8
+650,Vampire Academy,2014,4
+651,Sweeney Todd: The Demon Barber of Fleet Street,2007,4
+652,Solace,2015,8
+653,Insidious,2010,10
+654,Popstar: Never Stop Never Stopping,2016,12
+655,The Levelling,2016,11
+656,Public Enemies,2009,17
+657,Boyhood,2014,2
+658,Teenage Mutant Ninja Turtles,2014,8
+659,Eastern Promises,2007,19
+660,The Daughter,2015,16
+661,Pineapple Express,2008,15
+662,The First Time,2012,9
+663,Gone Baby Gone,2007,18
+664,The Heat,2013,6
+665,L'avenir,2016,7
+666,Anna Karenina,2012,14
+667,Regression,2015,14
+668,Ted 2,2015,12
+669,Pain & Gain,2013,3
+670,Blood Diamond,2006,10
+671,Devil's Knot,2013,19
+672,Child 44,2015,3
+673,The Hurt Locker,2008,15
+674,Green Lantern,2011,17
+675,War on Everyone,2016,13
+676,The Mist,2007,12
+677,Escape Plan,2013,13
+678,"Love, Rosie",2014,16
+679,The DUFF,2015,9
+680,The Age of Shadows,2016,2
+681,The Hunger Games: Mockingjay - Part 1,2014,3
+682,We Need to Talk About Kevin,2011,8
+683,Love & Friendship,2016,3
+684,The Mortal Instruments: City of Bones,2013,5
+685,Seven Pounds,2008,5
+686,The King's Speech,2010,11
+687,Hunger,2008,19
+688,Jumper,2008,13
+689,Toy Story 3,2010,2
+690,Tinker Tailor Soldier Spy,2011,15
+691,Resident Evil: Retribution,2012,19
+692,Dear Zindagi,2016,18
+693,Genius,2016,13
+694,Pompeii,2014,18
+695,Life of Pi,2012,13
+696,Hachi: A Dog's Tale,2009,11
+697,10 Years,2011,5
+698,I Origins,2014,19
+699,Live Free or Die Hard,2007,5
+700,The Matchbreaker,2016,16
+701,Funny Games,2007,18
+702,Ted,2012,4
+703,RED,2010,11
+704,Australia,2008,6
+705,Faster,2010,7
+706,The Neighbor,2016,13
+707,The Adjustment Bureau,2011,7
+708,The Hollars,2016,14
+709,The Judge,2014,3
+710,Closed Circuit,2013,14
+711,Transformers: Revenge of the Fallen,2009,7
+712,La tortue rouge,2016,2
+713,The Book of Life,2014,18
+714,Incendies,2010,4
+715,The Heartbreak Kid,2007,19
+716,Happy Feet,2006,1
+717,Entourage,2015,5
+718,The Strangers,2008,4
+719,Noah,2014,13
+720,Neighbors,2014,12
+721,Nymphomaniac: Vol. II,2013,5
+722,Wild,2014,14
+723,Grown Ups,2010,4
+724,Blair Witch,2016,6
+725,The Karate Kid,2010,15
+726,Dark Shadows,2012,1
+727,Friends with Benefits,2011,18
+728,The Illusionist,2006,13
+729,The A-Team,2010,16
+730,The Guest,2014,16
+731,The Internship,2013,1
+732,Paul,2011,9
+733,This Beautiful Fantastic,2016,9
+734,The Da Vinci Code,2006,14
+735,Mr. Church,2016,4
+736,Hugo,2011,5
+737,The Blackcoat's Daughter,2015,19
+738,Body of Lies,2008,2
+739,Knight of Cups,2015,10
+740,The Mummy: Tomb of the Dragon Emperor,2008,9
+741,The Boss,2016,16
+742,Hands of Stone,2016,12
+743,El secreto de sus ojos,2009,19
+744,True Grit,2010,1
+745,We Are Your Friends,2015,18
+746,A Million Ways to Die in the West,2014,11
+747,Only for One Night,2016,7
+748,Rules Don't Apply,2016,13
+749,Ouija: Origin of Evil,2016,1
+750,Percy Jackson: Sea of Monsters,2013,17
+751,Fracture,2007,2
+752,Oculus,2013,6
+753,In Bruges,2008,8
+754,This Means War,2012,16
+755,Lída Baarová,2016,6
+756,The Road,2009,16
+757,Lavender,2016,12
+758,Deuces,2016,10
+759,Conan the Barbarian,2011,18
+760,The Fighter,2010,15
+761,August Rush,2007,17
+762,Chef,2014,4
+763,Eye in the Sky,2015,13
+764,Eagle Eye,2008,5
+765,The Purge,2013,10
+766,PK,2014,6
+767,Ender's Game,2013,2
+768,Indiana Jones and the Kingdom of the Crystal Skull,2008,14
+769,Paper Towns,2015,1
+770,High-Rise,2015,16
+771,Quantum of Solace,2008,18
+772,The Assignment,2016,11
+773,How to Train Your Dragon,2010,10
+774,Lady in the Water,2006,12
+775,The Fountain,2006,14
+776,Cars 2,2011,12
+777,Tiger,2016,4
+778,Final Girl,2015,16
+779,Chalk It Up,2016,6
+780,The Man Who Knew Infinity,2015,18
+781,Unknown,2011,5
+782,Self/less,2015,13
+783,Mr. Brooks,2007,1
+784,Tramps,2016,19
+785,Before We Go,2014,8
+786,Captain Phillips,2013,4
+787,The Secret Scripture,2016,5
+788,Max Steel,2016,8
+789,Hotel Transylvania 2,2015,19
+790,Hancock,2008,6
+791,Sisters,2015,5
+792,The Family,2013,3
+793,Zack and Miri Make a Porno,2008,12
+794,Ma vie de Courgette,2016,13
+795,Man on a Ledge,2012,14
+796,No Strings Attached,2011,5
+797,Rescue Dawn,2006,4
+798,Despicable Me 2,2013,9
+799,A Walk Among the Tombstones,2014,6
+800,The World's End,2013,6
+801,Yoga Hosers,2016,5
+802,Seven Psychopaths,2012,7
+803,Beowulf,2007,8
+804,Jack Ryan: Shadow Recruit,2014,10
+805,Force,2007,2
+806,The Gambler,2014,13
+807,Prince of Persia: The Sands of Time,2010,17
+808,The Spectacular Now,2013,18
+809,A United Kingdom,2016,11
+810,USS Indianapolis: Men of Courage,2016,1
+811,Turbo Kid,2015,6
+812,Mama,2013,13
+813,Orphan,2009,13
+814,To Rome with Love,2012,14
+815,Fantastic Mr. Fox,2009,12
+816,Inside Man,2006,16
+817,IT,2016,18
+818,127 Hours,2010,9
+819,Annabelle,2014,6
+820,Wolves at the Door,2016,8
+821,Suite Française,2014,19
+822,The Imaginarium of Doctor Parnassus,2009,14
+823,G.I. Joe: The Rise of Cobra,2009,7
+824,Christine,2016,10
+825,Man Down,2015,6
+826,Crawlspace,2016,14
+827,Shut In,2016,15
+828,The Warriors Gate,2016,2
+829,Grindhouse,2007,15
+830,Disaster Movie,2008,17
+831,Rocky Balboa,2006,7
+832,Diary of a Wimpy Kid: Dog Days,2012,16
+833,Jane Eyre,2011,11
+834,Fool's Gold,2008,13
+835,The Dictator,2012,8
+836,The Loft,2014,18
+837,Bacalaureat,2016,15
+838,You Don't Mess with the Zohan,2008,1
+839,Exposed,2016,4
+840,Maudie,2016,6
+841,Horrible Bosses 2,2014,17
+842,A Bigger Splash,2015,8
+843,Melancholia,2011,8
+844,The Princess and the Frog,2009,11
+845,Unstoppable,2010,16
+846,Flight,2012,6
+847,Home,2015,19
+848,La migliore offerta,2013,16
+849,Mean Dreams,2016,9
+850,Fiza,2013,17
+851,Rocky ,2008,4
+852,Begin Again,2013,18
+853,Out of the Furnace,2013,9
+854,Vicky Cristina Barcelona,2008,12
+855,Kung Fu Panda,2008,15
+856,Barbershop: The Next Cut,2016,8
+857,Terminator Salvation,2009,19
+858,Freedom Writers,2007,19
+859,The Hills Have Eyes,2006,10
+860,Changeling,2008,7
+861,Remember Me,2010,14
+862,Koe no katachi,2016,19
+863,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",2014,12
+864,Locke,2013,12
+865,The 9th Life of Louis Drax,2016,7
+866,Horns,2013,2
+867,Indignation,2016,7
+868,The Stanford Prison Experiment,2015,10
+869,Diary of a Wimpy Kid: Rodrick Rules,2011,3
+870,Mission: Impossible III,2006,14
+871,En man som heter Ove,2015,9
+872,Dragonball Evolution,2009,2
+873,Red Dawn,2012,15
+874,One Day,2011,5
+875,Life as We Know It,2010,9
+876,28 Weeks Later,2007,17
+877,Warm Bodies,2013,9
+878,Blue Jasmine,2013,6
+879,G.I. Joe: Retaliation,2013,13
+880,Wrath of the Titans,2012,11
+881,Shin Gojira,2016,11
+882,Saving Mr. Banks,2013,19
+883,Transcendence,2014,1
+884,Rio,2011,13
+885,Equals,2015,10
+886,Babel,2006,13
+887,The Tree of Life,2011,14
+888,The Lucky One,2012,4
+889,Piranha 3D,2010,12
+890,Crash Landing,2011,5
+891,The Intent,2016,2
+892,This Is 40,2012,19
+893,Real Steel,2011,11
+894,Sex and the City,2008,10
+895,Rambo,2008,13
+896,Planet Terror,2007,12
+897,Concussion,2015,12
+898,The Fall,2006,7
+899,The Ugly Truth,2009,9
+900,Bride Wars,2009,7
+901,Sleeping with Other People,2015,1
+902,Snakes on a Plane,2006,16
+903,What If,2013,7
+904,How to Train Your Dragon 2,2014,9
+905,RoboCop,2014,6
+906,In Dubious Battle,2016,5
+907,"Hello, My Name Is Doris",2015,2
+908,Ocean's Thirteen,2007,18
+909,Slither,2006,17
+910,Contagion,2011,18
+911,Il racconto dei racconti - Tale of Tales,2015,11
+912,I Am the Pretty Thing That Lives in the House,2016,3
+913,Bridge to Terabithia,2007,5
+914,Coherence,2013,7
+915,Notorious,2009,6
+916,Goksung,2016,5
+917,The Expendables 2,2012,5
+918,The Girl Next Door,2007,2
+919,Perfume: The Story of a Murderer,2006,7
+920,The Golden Compass,2007,6
+921,Centurion,2010,15
+922,Scouts Guide to the Zombie Apocalypse,2015,6
+923,17 Again,2009,13
+924,No Escape,2015,15
+925,Superman Returns,2006,12
+926,The Twilight Saga: Breaking Dawn - Part 1,2011,17
+927,Precious,2009,15
+928,The Sea of Trees,2015,15
+929,Good Kids,2016,1
+930,The Master,2012,2
+931,Footloose,2011,10
+932,If I Stay,2014,1
+933,The Ticket,2016,19
+934,Detour,2016,10
+935,The Love Witch,2016,3
+936,Talladega Nights: The Ballad of Ricky Bobby,2006,17
+937,The Human Centipede (First Sequence),2009,1
+938,Super,2010,9
+939,The Siege of Jadotville,2016,15
+940,Up in the Air,2009,5
+941,The Midnight Meat Train,2008,16
+942,The Twilight Saga: Eclipse,2010,14
+943,Transpecos,2016,14
+944,What's Your Number?,2011,18
+945,Riddick,2013,8
+946,Triangle,2009,13
+947,The Butler,2013,2
+948,King Cobra,2016,19
+949,After Earth,2013,13
+950,Kicks,2016,16
+951,Me and Earl and the Dying Girl,2015,6
+952,The Descendants,2011,14
+953,Sex and the City 2,2010,5
+954,The Kings of Summer,2013,18
+955,Death Race,2008,12
+956,That Awkward Moment,2014,14
+957,Legion,2010,4
+958,End of Watch,2012,5
+959,3 Days to Kill,2014,4
+960,Lucky Number Slevin,2006,14
+961,Trance,2013,18
+962,Into the Forest,2015,5
+963,The Other Boleyn Girl,2008,16
+964,I Spit on Your Grave,2010,9
+965,Custody,2016,6
+966,Inland Empire,2006,16
+967,L'odyssée,2016,11
+968,The Walk,2015,1
+969,Wrecker,2015,7
+970,The Lone Ranger,2013,7
+971,Texas Chainsaw 3D,2013,17
+972,Disturbia,2007,17
+973,Rock of Ages,2012,14
+974,Scream 4,2011,19
+975,Queen of Katwe,2016,19
+976,My Big Fat Greek Wedding 2,2016,15
+977,Dark Places,2015,15
+978,Amateur Night,2016,13
+979,It's Only the End of the World,2016,11
+980,The Skin I Live In,2011,7
+981,Miracles from Heaven,2016,16
+982,Annie,2014,15
+983,Across the Universe,2007,17
+984,Let's Be Cops,2014,9
+985,Max,2015,8
+986,Your Highness,2011,16
+987,Final Destination 5,2011,12
+988,Endless Love,2014,12
+989,Martyrs,2008,7
+990,Selma,2014,2
+991,Underworld: Rise of the Lycans,2009,6
+992,Taare Zameen Par,2007,3
+993,Take Me Home Tonight,2011,4
+994,Resident Evil: Afterlife,2010,6
+995,Project X,2012,1
+996,Secret in Their Eyes,2015,19
+997,Hostel: Part II,2007,6
+998,Step Up 2: The Streets,2008,19
+999,Search Party,2014,2
+1000,Nine Lives,2016,17
